@@ -1,0 +1,5 @@
+*.o
+*.ipk
+*.elf
+*.opk
+*.exe
