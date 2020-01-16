@@ -1,0 +1,10 @@
+Package: opentyrian
+Version: 
+Description: RetroGame port of OpenTyrian
+Section: games
+Priority: optional
+Maintainer: pingflood
+Architecture: mipsel
+Homepage: https://github.com/retrofw/opentyrian
+Depends:
+Source: https://github.com/retrofw/opentyrian

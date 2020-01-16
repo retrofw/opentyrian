@@ -1,0 +1,4 @@
+title=OpenTyrian
+description=OpenTyrian port
+exec=/home/retrofw/games/opentyrian/opentyrian.elf
+clock=600
