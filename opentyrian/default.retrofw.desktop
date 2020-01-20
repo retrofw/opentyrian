@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=OpenTyrian
+Comment=OpenTyrian port
+Exec=opentyrian.dge
+Icon=opentyrian
+Categories=games;
+X-OD-Manual=opentyrian.man.txt
+Terminal=false
+Type=Application
+StartupNotify=true
